@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Data Structures",
+        "stars": 5,
+        "review": "Excellent professor! She made complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Mark Thompson",
+        "subject": "Algorithms",
+        "stars": 4,
+        "review": "Very knowledgeable, but his lectures can be a bit fast-paced."
+      },
+      {
+        "professor": "Dr. Sarah Lee",
+        "subject": "Operating Systems",
+        "stars": 3,
+        "review": "Solid professor, but sometimes the material was hard to follow."
+      },
+      {
+        "professor": "Dr. John Davis",
+        "subject": "Database Systems",
+        "stars": 5,
+        "review": "Great professor with a lot of real-world experience."
+      },
+      {
+        "professor": "Dr. Anna Smith",
+        "subject": "Computer Networks",
+        "stars": 4,
+        "review": "Good teacher, but the assignments were very challenging."
+      },
+      {
+        "professor": "Dr. Robert Brown",
+        "subject": "Software Engineering",
+        "stars": 5,
+        "review": "Amazing course! Dr. Brown is very engaging and helpful."
+      },
+      {
+        "professor": "Dr. Linda Wilson",
+        "subject": "Artificial Intelligence",
+        "stars": 3,
+        "review": "Interesting material, but the exams were tough."
+      },
+      {
+        "professor": "Dr. James Moore",
+        "subject": "Machine Learning",
+        "stars": 4,
+        "review": "Very insightful lectures, but the workload was heavy."
+      },
+      {
+        "professor": "Dr. Jessica Taylor",
+        "subject": "Human-Computer Interaction",
+        "stars": 5,
+        "review": "One of the best professors I've had! Very interactive classes."
+      },
+      {
+        "professor": "Dr. William Anderson",
+        "subject": "Theory of Computation",
+        "stars": 2,
+        "review": "Difficult to follow the lectures, and the material was confusing."
+      },
+      {
+        "professor": "Dr. Patricia Martin",
+        "subject": "Cryptography",
+        "stars": 4,
+        "review": "Challenging course, but Dr. Martin explains concepts clearly."
+      },
+      {
+        "professor": "Dr. Michael White",
+        "subject": "Computer Graphics",
+        "stars": 3,
+        "review": "Decent course, but the professor was not very engaging."
+      },
+      {
+        "professor": "Dr. Elizabeth Martinez",
+        "subject": "Compiler Design",
+        "stars": 5,
+        "review": "Fantastic course! Dr. Martinez is very supportive and knowledgeable."
+      },
+      {
+        "professor": "Dr. Christopher Thompson",
+        "subject": "Parallel Computing",
+        "stars": 4,
+        "review": "Very informative, but the projects were extremely difficult."
+      },
+      {
+        "professor": "Dr. Jennifer Lewis",
+        "subject": "Natural Language Processing",
+        "stars": 5,
+        "review": "Amazing professor! She made NLP fascinating and approachable."
+      },
+      {
+        "professor": "Dr. Richard Clark",
+        "subject": "Discrete Mathematics",
+        "stars": 2,
+        "review": "The lectures were dry, and the material was difficult to grasp."
+      },
+      {
+        "professor": "Dr. Donna Walker",
+        "subject": "Cybersecurity",
+        "stars": 4,
+        "review": "Good course, but the professor could have been more engaging."
+      },
+      {
+        "professor": "Dr. Andrew Harris",
+        "subject": "Web Development",
+        "stars": 5,
+        "review": "Fantastic course! Dr. Harris made web development fun and practical."
+      },
+      {
+        "professor": "Dr. Nancy King",
+        "subject": "Mobile App Development",
+        "stars": 4,
+        "review": "Great course, but the assignments were quite time-consuming."
+      },
+      {
+        "professor": "Dr. Steven Green",
+        "subject": "Introduction to Programming",
+        "stars": 3,
+        "review": "The professor was okay, but the course felt too basic."
+      }
+    ]
+  }
+  
