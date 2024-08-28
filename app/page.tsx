@@ -54,7 +54,7 @@ export default function Home() {
   return (
     <div className="xl:w-svw h-screen flex flex-col px-4 xl:px-0 xl:items-center justify-center bg-yellow-300">
       <div className="flex flex-col xl:w-1/4 h-[700px] border xl:border-spacing-x-4 border-spacing-y-12 bg-secondary">
-        <div className=" w-full xl:w-[449px] text-white text-center mx-auto xl:p-2 h-12 bg-primary">
+        <div className=" w-full xl:w-[449px] white text-center mx-auto xl:p-2 h-12 bg-primary">
           Rate My Professor
         </div>
         <Stack
